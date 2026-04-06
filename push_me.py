@@ -1,1 +1,1 @@
-print("Hello, CoconutQA! Vtoroi push!")
+print("Hello, CoconutQA! Tretii push!")
